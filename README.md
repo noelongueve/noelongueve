@@ -1,123 +1,134 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+noe.longueve+%7C+epitech+paris+'28;%3E+from+low-level+C+to+high-level+chaos;%3E+turning+caffeine+into+code+%E2%98%95" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=120&section=header&reversal=false" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,2&height=200&section=header&text=%F0%9F%91%8B%20Hi%2C%20I'm%20No%C3%A9%20Longu%C3%A8ve&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineering%20student%20%E2%80%94%20Epitech%20Paris&descAlignY=62&descSize=15&animation=fadeIn" />
 
-```bash
-$ neofetch
-```
+<a href="https://www.linkedin.com/in/noe-longueve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:noelongueve@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=noelongueve&label=Profile&color=4B5563&style=for-the-badge&labelColor=1F2937" />
 
-```yaml
-        ##############            user@github
-       ###            ###         ----------------
-      ###    ######    ###        name       : Noé Longuève
-     ###    ###  ###    ###       school     : Epitech Paris
-    ###    ###    ###    ###      promo      : 2028 (3rd year)
-   ###    ###      ###    ###     status     : student dev, full-time tinkerer
-   ###    ###      ###    ###     languages  : C, C++, Go, TypeScript
-   ###    ###      ###    ###     interests  : game engines, web, low-level
-    ###    ###    ###    ###      currently  : breaking things to learn faster
-     ###    ###  ###    ###       motto      : segfault today, ship tomorrow
-      ###    ######    ###
-       ###            ###         theme      : ───────  catppuccin-mocha
-        ##############            uptime     : ~20 years and counting
-```
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=A5B4FC&center=true&vCenter=true&width=620&lines=Always+building%2C+always+breaking%2C+always+learning.;Simplicity+is+the+soul+of+efficiency.;Programs+must+be+written+for+people+to+read." alt="Subtitle" />
+
+</div>
 
 <br/>
 
-## `> ./stack.sh`
+### About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,ts,js,react,nodejs,mongodb,docker,linux,bash,git,vim&theme=dark" />
-</p>
+I'm a third-year engineering student at **Epitech Paris**, pursuing a Master's degree in Information Technology. My academic path covers a broad range of software engineering topics, from low-level systems programming to modern web and application development.
 
-<br/>
-
-## `> cat ./projects.md`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 R-Type</h3>
-      <p align="center"><code>C++ • game engine • multiplayer</code></p>
-      <p>
-        Built a game engine from scratch and used it to recreate the classic
-        <b>R-Type</b> shooter — with both solo and multiplayer modes.
-        Networking, ECS, the whole pipeline.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Zappy</h3>
-      <p align="center"><code>C • C++ • Go • AI • networking</code></p>
-      <p>
-        A simulation where teams of <b>AI agents</b> evolve, gather resources
-        and fight to win. C server, C++ visualizer, Go AIs that
-        learn to cooperate (or backstab each other).
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 AREA</h3>
-      <p align="center"><code>TypeScript • React • Node • OAuth2</code></p>
-      <p>
-        An <b>IFTTT-like</b> platform — web app + mobile app — connecting
-        multiple services through OAuth2 to chain actions and reactions
-        across providers.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚔️ RPG</h3>
-      <p align="center"><code>C • graphics • game design</code></p>
-      <p>
-        A full <b>RPG game</b> rebuilt in pure C. Sprites, maps, combat,
-        inventory — everything handled at the lowest level, because
-        why make life easy.
-      </p>
-    </td>
-  </tr>
-</table>
+I'm passionate about building well-crafted software, learning new technologies, and growing through hands-on projects — both academic and personal.
 
 <br/>
 
-## `> git log --stat`
+### Tech Stack
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noelongueve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelongueve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noelongueve&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,react,html,css,postgres,docker,linux,git,github,figma&theme=dark&perline=15" alt="Tech Stack" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noelongueve&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" />
-</p>
+</div>
 
 <br/>
 
-## `> ./contact.sh`
+### Selected Projects
 
-<p align="center">
-  <a href="https://github.com/noelongueve">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />
-  </a>
-  <a href="https://www.linkedin.com/in/noe-longueve/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
-  </a>
-  <a href="mailto:noelongueve@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+</div>
+
+<h3>
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1&pause=99999&color=A5B4FC&width=320&height=40&lines=%E2%9F%A2++R-TYPE" alt="R-Type" />
+</h3>
+
+<p>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C%2B%2B-A5B4FC?style=flat-square&logo=cplusplus&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-SFML-A5B4FC?style=flat-square&labelColor=A5B4FC&color=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-ECS-A5B4FC?style=flat-square&labelColor=A5B4FC&color=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-Game%20Engine-A5B4FC?style=flat-square&labelColor=A5B4FC&color=A5B4FC" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=80&section=footer&reversal=true" />
+&nbsp;&nbsp;The R-Type project consists of building a game engine and recreating the R-Type game on top of it, adding a multiplayer mode alongside the original single-player mode. As part of a team of five members, I worked on both the game engine and the game itself.
+
+&nbsp;&nbsp;<sub><i>Architecture · ECS · Networking</i></sub>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+</div>
+
+<h3>
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1&pause=99999&color=A5B4FC&width=320&height=40&lines=%E2%9F%A2++ZAPPY" alt="Zappy" />
+</h3>
+
+<p>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C%2B%2B-A5B4FC?style=flat-square&logo=cplusplus&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-C-A5B4FC?style=flat-square&logo=c&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-Go-A5B4FC?style=flat-square&logo=go&logoColor=0D1117&labelColor=A5B4FC" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noelongueve&label=visitors&color=00ff9c&style=flat" />
+&nbsp;&nbsp;The Zappy project is a multiplayer network simulation game with a central server and autonomous AI clients. The goal is to evolve AIs for survival and reproduction. Developed in C++ and C by a team of six, I worked on the game environment, GUI, inventory, and resource management.
+
+&nbsp;&nbsp;<sub><i>Distributed systems · Protocol design · AI behavior</i></sub>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+</div>
+
+<h3>
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1&pause=99999&color=A5B4FC&width=320&height=40&lines=%E2%9F%A2++AREA" alt="AREA" />
+</h3>
+
+<p>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-A5B4FC?style=flat-square&logo=typescript&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-Next.js-A5B4FC?style=flat-square&logo=nextdotjs&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-HTML-A5B4FC?style=flat-square&logo=html5&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSS-A5B4FC?style=flat-square&logo=css3&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-A5B4FC?style=flat-square&logo=postgresql&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-A5B4FC?style=flat-square&logo=docker&logoColor=0D1117&labelColor=A5B4FC" />
 </p>
+
+&nbsp;&nbsp;The AREA project is a web/mobile app inspired by IFTTT that lets users create action-reaction workflows (e.g. email received → phone message). Developed by a team of five, I mainly worked on the backend (services, modular communication) and contributed to the frontend for workflow management.
+
+&nbsp;&nbsp;<sub><i>Full-stack · API design · Cross-platform</i></sub>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+</div>
+
+<h3>
+  &nbsp;<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1&pause=99999&color=A5B4FC&width=320&height=40&lines=%E2%9F%A2++RPG" alt="RPG" />
+</h3>
+
+<p>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-C-A5B4FC?style=flat-square&logo=c&logoColor=0D1117&labelColor=A5B4FC" />&nbsp;
+  <img src="https://img.shields.io/badge/-CSFML-A5B4FC?style=flat-square&labelColor=A5B4FC&color=A5B4FC" />
+</p>
+
+&nbsp;&nbsp;The RPG project consisted of developing an RPG game to complete my first year at Epitech Paris. Built in C with CSFML in a team of four, I mainly worked on the GUI, including the main menu, settings (sound, resolution, framerate), and the pause menu.
+
+&nbsp;&nbsp;<sub><i>Low-level · 2D rendering · Game systems</i></sub>
+
+<br/>
+
+### GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=noelongueve&theme=github-dark-blue&hide_border=true&background=0D1117&ring=A5B4FC&fire=93C5FD&currStreakLabel=A5B4FC" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,2&height=80&section=footer&animation=fadeIn" />
+
+<sub><b>noelongueve@gmail.com</b></sub>
+
+</div>
