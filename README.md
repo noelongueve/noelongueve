@@ -18,7 +18,7 @@
 
 I'm a third-year engineering student at **Epitech Paris**, pursuing a Master's degree in Information Technology. My academic path covers a broad range of software engineering topics, from low-level systems programming to modern web and application development.
 
-I'm passionate about building well-crafted software, learning new technologies, and growing through hands-on projects — both academic and personal.
+I'm passionate about building well-crafted software, learning new technologies, and growing through hands-on projects, both academic and personal.
 
 ---
 
