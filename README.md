@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,2&height=200&section=header&text=%F0%9F%91%8B%20Hi%2C%20I'm%20No%C3%A9%20Longu%C3%A8ve&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20engineering%20student%20%E2%80%94%20Epitech%20Paris&descAlignY=62&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,50:3b82f6,100:60a5fa&height=200&section=header&text=%F0%9F%91%8B%20Hi%2C%20I'm%20No%C3%A9%20Longu%C3%A8ve&fontSize=52&fontColor=ffffff&fontAlignY=28&desc=Software%20engineering%20student%20at%20Epitech%20Paris&descAlignY=52&descSize=16&animation=fadeIn" />
 
 <a href="https://www.linkedin.com/in/noe-longueve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:noelongueve@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
@@ -45,7 +45,7 @@ I'm passionate about building well-crafted software, learning new technologies, 
 &nbsp;&nbsp;*Architecture · ECS · Networking*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:3b82f6,100:60a5fa&height=2&width=720" />
 </div>
 
 ### ⟢ ZAPPY
@@ -57,7 +57,7 @@ I'm passionate about building well-crafted software, learning new technologies, 
 &nbsp;&nbsp;*Distributed systems · Protocol design · AI behavior*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:3b82f6,100:60a5fa&height=2&width=720" />
 </div>
 
 ### ⟢ AREA
@@ -69,7 +69,7 @@ I'm passionate about building well-crafted software, learning new technologies, 
 &nbsp;&nbsp;*Full-stack · API design · Cross-platform*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,8,2&height=2&width=720" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e40af,50:3b82f6,100:60a5fa&height=2&width=720" />
 </div>
 
 ### ⟢ RPG
@@ -91,7 +91,7 @@ I'm passionate about building well-crafted software, learning new technologies, 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,2&height=80&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:3b82f6,100:1e40af&height=80&section=footer&animation=fadeIn" />
 
 **noelongueve@gmail.com**
 
