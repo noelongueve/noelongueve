@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/noe-longueve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:noelongueve@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=noelongueve&label=Profile&color=4B5563&style=for-the-badge&labelColor=1F2937" />
+<img src="https://komarev.com/ghpvc/?username=noelongueve&label=Profile%20Views&color=4B5563&style=for-the-badge&labelColor=1F2937" />
 
 <br/>
 
