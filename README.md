@@ -32,9 +32,7 @@ I'm passionate about building well-crafted software, learning new technologies, 
 
 ---
 
-### Selected Projects
-
-
+### Projects
 
 ### ⟢ R-TYPE
 
